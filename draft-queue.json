@@ -1,8 +1,506 @@
 {
   "schema_version": 2,
-  "batch_id": "c60772675cdc8da2d354",
-  "generated_at": "2026-06-09T16:57:20.506Z",
+  "batch_id": "e4189eb0f5de02d1eb7e",
+  "generated_at": "2026-06-09T17:01:42.308Z",
   "minimum_lead_score": 72,
-  "profiles": [],
+  "profiles": [
+    {
+      "full_name": "Chris Dyer",
+      "category": "Speakers",
+      "genre": "leadership and culture keynote",
+      "short_bio": "Chris Dyer is a keynote speaker, 4x bestselling author, and former 5x Inc. 5000 CEO. He is known for leadership and culture keynotes built around his Moments That Matter methodology and 7 Pillars of Amazing Culture framework.",
+      "long_bio": "Chris Dyer is an American keynote speaker focused on leadership and organizational culture. He is a 4x bestselling author and former 5x Inc. 5000 CEO, giving him direct executive-level perspective on performance, growth, and team culture.\n\nHe has delivered more than 300 keynotes across 20+ countries, supporting corporate audiences seeking practical ideas for leadership meetings, offsites, and culture events. His speaking profile is reinforced by recognized 2026 placements, including #1 Leadership Speaker to Follow in 2026 by MSN.com and #15 on the Global Gurus Top 30 Organizational Culture Professionals for 2026.\n\nDyer’s work centers on the Moments That Matter methodology and the 7 Pillars of Amazing Culture framework. These positioning points make his message especially relevant for organizations looking to connect culture with measurable leadership outcomes.\n\nHis client history includes organizations such as NASA, Johnson & Johnson, Southwest Airlines, IKEA, General Motors, Intuit, and MetLife. That breadth of corporate experience supports his fit for conference planners seeking a proven leadership and culture keynote with broad business appeal.",
+      "known_for": "4x bestselling author, former 5x Inc. 5000 CEO, 300+ keynotes delivered, 20+ countries presented in, Moments That Matter methodology, 7 Pillars of Amazing Culture framework",
+      "event_types": "leadership conferences, culture summits, corporate offsites, executive meetings, employee events",
+      "nationality": "American",
+      "seo_headline": "Book Chris Dyer | Chris Dyer Booking Agent | Icon Talent Agency",
+      "seo_description": "Book Chris Dyer for leadership and culture keynotes focused on measurable culture outcomes and executive team impact.",
+      "why_book": [
+        "Recognized in 2026 leadership and culture speaker rankings, including MSN.com and Global Gurus.",
+        "Brings direct executive experience as a former 5x Inc. 5000 CEO and 4x bestselling author.",
+        "Has delivered 300+ keynotes in 20+ countries, indicating broad corporate speaking experience.",
+        "Uses named frameworks designed around culture and leadership outcomes, including Moments That Matter and 7 Pillars of Amazing Culture."
+      ],
+      "speaking_topics": "leadership, organizational culture, culture transformation, employee engagement, executive alignment, Moments That Matter methodology, 7 Pillars of Amazing Culture, measurable culture outcomes",
+      "signature_event_types": "keynote presentation, leadership offsite session, culture-focused conference talk",
+      "additional_faqs": [
+        {
+          "question": "How much does it cost to book Chris Dyer?",
+          "answer": "Fees vary by event. Contact Icon Talent Agency for current availability and a tailored quote."
+        },
+        {
+          "question": "What types of events does Chris Dyer appear at?",
+          "answer": "Editorially, Chris Dyer is a fit for leadership conferences, culture summits, corporate offsites, executive meetings, and employee events."
+        },
+        {
+          "question": "How do I book Chris Dyer through Icon Talent Agency?",
+          "answer": "For booking inquiries, contact Icon Talent Agency with your event date, audience size, location, and program goals so the request can be reviewed and quoted."
+        }
+      ],
+      "sources": [
+        {
+          "title": "BigSpeak profile for Chris Dyer",
+          "url": "https://www.bigspeak.com/speakers/chris-dyer/"
+        },
+        {
+          "title": "BigSpeak top booked speakers of 2026",
+          "url": "https://www.bigspeak.com/presenting-bigspeaks-top-booked-speakers-of-the-year/"
+        },
+        {
+          "title": "BigSpeak leadership / strategy content ecosystem",
+          "url": "https://www.bigspeak.com/lead-through-disruption-with-world-class-strategy-speakers/"
+        }
+      ],
+      "opportunity": {
+        "lead_score": 84,
+        "reason": "Strong corporate-event demand is already visible in bureau coverage, and the 2026 recognition angle makes this highly bookable for leadership meetings, offsites, and culture events. The current bureau pages give enough concrete positioning to build a conversion-focused profile around measurable culture outcomes.",
+        "lane": "competitor-gaps",
+        "evidence": [
+          {
+            "title": "BigSpeak profile for Chris Dyer",
+            "url": "https://www.bigspeak.com/speakers/chris-dyer/",
+            "finding": "2026 ranking, keynote credentials, client logos, speaking volume, and fee range."
+          },
+          {
+            "title": "BigSpeak top booked speakers of 2026",
+            "url": "https://www.bigspeak.com/presenting-bigspeaks-top-booked-speakers-of-the-year/",
+            "finding": "Identifies Chris Dyer as a repeat high-demand speaker in the bureau ecosystem."
+          },
+          {
+            "title": "BigSpeak leadership / strategy content ecosystem",
+            "url": "https://www.bigspeak.com/lead-through-disruption-with-world-class-strategy-speakers/",
+            "finding": "Confirms corporate conference demand for leadership and strategy talent in 2026."
+          }
+        ]
+      },
+      "profile_id": "c1a78c1d23f347bb111c"
+    },
+    {
+      "full_name": "Laila Ali",
+      "category": "Athletes",
+      "genre": "celebrity athlete, wellness, hosting, and food-lifestyle",
+      "short_bio": "Laila Ali is a world-class athlete and top motivational keynote speaker. She is also a TV host and cooking enthusiast with a broad public profile across wellness, hosting, and lifestyle.",
+      "long_bio": "Laila Ali is an American athlete whose profile extends beyond sports into speaking, hosting, and lifestyle media. Verified research identifies her as a world-class athlete and a top motivational keynote speaker, making her a strong fit for audiences looking for credibility and inspiration.\n\nHer on-camera experience includes hosting Late Nite Chef Fight on FYI Network, and she is also recognized as a cooking enthusiast. That combination gives her added appeal for buyer use cases that blend entertainment, wellness, and food-lifestyle programming.\n\nLaila Ali is the founder of the Laila Ali Lifestyle Brand, adding a consumer-facing brand layer to her public platform. She also made her feature film acting debut in Falcon Rising, demonstrating a cross-category presence that can support broader event and activation concepts.\n\nHer background and visibility create booking appeal for corporate events, wellness programs, brand activations, and hosted experiences. She is also a mother of two, which is part of her public personal profile.",
+      "known_for": "world-class athlete, top motivational keynote speaker, TV host, cooking enthusiast, founder of the Laila Ali Lifestyle Brand, hosted Late Nite Chef Fight on FYI Network",
+      "event_types": "corporate events, wellness programs, brand activations, hosted experiences, motivational keynotes",
+      "nationality": "American",
+      "seo_headline": "Book Laila Ali | Laila Ali Booking Agent | Icon Talent Agency",
+      "seo_description": "Book Laila Ali for corporate events, wellness programs, hosted experiences, and brand activations.",
+      "why_book": [
+        "Combines athlete credibility with motivational speaking appeal.",
+        "Adds TV hosting and food-lifestyle relevance for broader event programming.",
+        "Fits buyer-demand use cases including corporate events, wellness programs, and brand activations.",
+        "Supports editorial positioning around inspiration, wellness, and hosted experiences."
+      ],
+      "speaking_topics": "motivation, athletic achievement, wellness, hosting, food-lifestyle, brand building, lifestyle entrepreneurship",
+      "signature_event_types": "motivational keynote, hosted lifestyle experience, wellness-focused appearance",
+      "additional_faqs": [
+        {
+          "question": "How much does it cost to book Laila Ali?",
+          "answer": "Fees vary by event. Contact Icon Talent Agency for current availability and a tailored quote."
+        },
+        {
+          "question": "What types of events does Laila Ali appear at?",
+          "answer": "Verified research supports editorial suitability for corporate events, wellness programs, brand activations, hosted experiences, and motivational keynotes."
+        },
+        {
+          "question": "How do I book Laila Ali through Icon Talent Agency?",
+          "answer": "Use Icon Talent Agency’s booking inquiry process to request current availability and discuss event details."
+        }
+      ],
+      "sources": [
+        {
+          "title": "BigSpeak profile for Laila Ali",
+          "url": "https://www.bigspeak.com/speakers/laila-ali"
+        },
+        {
+          "title": "Icon Talent Agency roster / category coverage",
+          "url": "https://icontalentagency.com/"
+        },
+        {
+          "title": "Icon talent roster landing page",
+          "url": "https://icontalentagency.com/our-a-z-talent-roster/"
+        }
+      ],
+      "opportunity": {
+        "lead_score": 83,
+        "reason": "She fits multiple high-intent booking use cases at once: corporate events, wellness programs, brand activations, and hosted experiences. The combination of athlete credibility, TV hosting, and culinary interest broadens lead capture beyond pure motivational speaking.",
+        "lane": "buyer-demand",
+        "evidence": [
+          {
+            "title": "BigSpeak profile for Laila Ali",
+            "url": "https://www.bigspeak.com/speakers/laila-ali",
+            "finding": "States athlete, speaker, host, cooking enthusiast, brand founder, and TV-host credentials."
+          },
+          {
+            "title": "Icon Talent Agency roster / category coverage",
+            "url": "https://icontalentagency.com/",
+            "finding": "Icon explicitly markets corporate/private event bookings across athletes, musicians, chefs, influencers, and speakers."
+          },
+          {
+            "title": "Icon talent roster landing page",
+            "url": "https://icontalentagency.com/our-a-z-talent-roster/",
+            "finding": "Confirms athlete talent is a searchable commercial category on site."
+          }
+        ]
+      },
+      "profile_id": "b7f5642a234f1aa3e2d5"
+    },
+    {
+      "full_name": "Anjelah Johnson-Reyes",
+      "category": "Comedians",
+      "genre": "stand-up comedian, actress, and former NFL cheerleader",
+      "short_bio": "Anjelah Johnson-Reyes is an American actress, stand-up comedian, and author. She is also a former NFL cheerleader known for her work in comedy, television, and film.",
+      "long_bio": "Anjelah Johnson-Reyes is an American stand-up comedian, actress, and author with a career spanning comedy, television, and film. She is widely recognized for her broad audience appeal and event-friendly background as a former NFL cheerleader.\n\nHer comedy has reached large online audiences, including the viral video “Nail Salon,” which has more than 47 million views. Her special “Say I Won’t” on YouTube has also amassed more than 7.1 million views.\n\nThese verified performance metrics make her a strong fit for corporate entertainment, galas, and brand-focused programming. Her profile was updated in 2026 on a major speaker bureau site, reflecting continued booking relevance.\n\nResearch used for this profile highlights her as a strong option for buyer segments seeking recognizable comedy talent with crossover appeal. Her background supports editorial positioning for conference entertainment, private events, and other audience-facing programs.",
+      "known_for": "Actress, stand-up comedian, and author, Former NFL cheerleader, Comedy, television, and film work, Viral video “Nail Salon” with more than 47 million views, YouTube special “Say I Won’t” with more than 7.1 million views, Updated 2026 profile on a major speaker bureau site",
+      "event_types": "corporate events, private events, galas, conferences, brand events",
+      "nationality": "American",
+      "seo_headline": "Book Anjelah Johnson-Reyes | Anjelah Johnson-Reyes Booking Agent | Icon Talent Agency",
+      "seo_description": "Book Anjelah Johnson-Reyes for corporate comedy, galas, conferences, and brand events.",
+      "why_book": [
+        "Broad audience appeal for corporate and private-event comedy bookings.",
+        "Verified viral and YouTube viewership demonstrates established audience reach.",
+        "Event-friendly background as a former NFL cheerleader adds a distinctive backstory.",
+        "Positioned for galas, conference entertainment, and brand events."
+      ],
+      "speaking_topics": "stand-up comedy, comedy, television, film, author platform, former NFL cheerleader backstory, audience entertainment, viral performance content",
+      "signature_event_types": "corporate comedy sets, gala entertainment, conference entertainment",
+      "additional_faqs": [
+        {
+          "question": "How much does it cost to book Anjelah Johnson-Reyes?",
+          "answer": "Fees vary by event. Contact Icon Talent Agency for current availability and a tailored quote."
+        },
+        {
+          "question": "What types of events does Anjelah Johnson-Reyes appear at?",
+          "answer": "Research supports positioning her for corporate events, private events, galas, conferences, and brand events."
+        },
+        {
+          "question": "How do I book Anjelah Johnson-Reyes through Icon Talent Agency?",
+          "answer": "Use the agency inquiry path provided on Icon Talent Agency’s site to request a booking quote and event review."
+        }
+      ],
+      "sources": [
+        {
+          "title": "All American Speakers profile for Anjelah Johnson-Reyes",
+          "url": "https://www.allamericanspeakers.com/speakers/447727/Anjelah-Johnson-Reyes"
+        },
+        {
+          "title": "Icon Talent Agency comedy category",
+          "url": "https://icontalentagency.com/browse-talent/comedy/"
+        },
+        {
+          "title": "Icon home page",
+          "url": "https://icontalentagency.com/"
+        }
+      ],
+      "opportunity": {
+        "lead_score": 80,
+        "reason": "This is a strong corporate and private-event comedy booking with clear recent traction and a built-in event-friendly backstory. Her broad appeal works for galas, conference entertainment, and brand events.",
+        "lane": "competitor-gaps",
+        "evidence": [
+          {
+            "title": "All American Speakers profile for Anjelah Johnson-Reyes",
+            "url": "https://www.allamericanspeakers.com/speakers/447727/Anjelah-Johnson-Reyes",
+            "finding": "Provides biography, viral performance metrics, and booking request framing."
+          },
+          {
+            "title": "Icon Talent Agency comedy category",
+            "url": "https://icontalentagency.com/browse-talent/comedy/",
+            "finding": "Icon markets comedy for corporate, charity, private, and virtual events."
+          },
+          {
+            "title": "Icon home page",
+            "url": "https://icontalentagency.com/",
+            "finding": "Confirms the agency books celebrities for brand partnerships, activations, and corporate/private events."
+          }
+        ]
+      },
+      "profile_id": "d9e9b110f5c92e4d8609"
+    },
+    {
+      "full_name": "Rich Roll",
+      "category": "Athletes",
+      "genre": "ultra-endurance, wellness, and podcast host",
+      "short_bio": "Rich Roll is an American ultra-endurance athlete and wellness advocate. He is also a motivational speaker, author, and host of the Rich Roll podcast.",
+      "long_bio": "Rich Roll is an American ultra-endurance athlete and wellness advocate whose profile is positioned for performance-minded and wellness-focused audiences. His work combines endurance athletics with motivational speaking and authorship, giving him a broad platform for event programming.\n\nHe is also the host of the Rich Roll podcast, which adds media reach and conversation-driven appeal for brands, conferences, and corporate audiences. That combination of athletic credibility and audience engagement makes him a strong editorial fit for buyer-demand booking pages.\n\nRich Roll’s verified speaker profile is active on a major bureau site and includes a booking fee page, indicating commercial relevance for event inquiries. The profile was updated in 2026, reinforcing that he remains current in the marketplace.\n\nHis overall positioning is especially relevant for wellness conferences, brand events, and corporate audiences that value resilience, performance, and personal development. He is best described through his verified roles as an athlete, author, speaker, and podcast host.",
+      "known_for": "ultra-endurance athlete, wellness advocate, motivational speaker, author, host of the Rich Roll podcast, corporate and event booking profile",
+      "event_types": "corporate events, wellness conferences, brand events, keynote speaking engagements, performance-minded business gatherings",
+      "nationality": "American",
+      "seo_headline": "Book Rich Roll | Rich Roll Booking Agent | Icon Talent Agency",
+      "seo_description": "Book Rich Roll for wellness, endurance, and corporate events with a speaker whose podcast and athlete profile drive audience interest.",
+      "why_book": [
+        "Verified ultra-endurance athlete and wellness advocate with strong performance-oriented appeal.",
+        "Podcast host with added media and audience reach for event programming.",
+        "Positioned for corporate, brand, and wellness-focused bookings.",
+        "Active speaker profile with booking intent on a major bureau site."
+      ],
+      "speaking_topics": "ultra-endurance, wellness, performance mindset, motivation, resilience, podcasting, personal development",
+      "signature_event_types": "keynote speaking, panel discussion, corporate conversation",
+      "additional_faqs": [
+        {
+          "question": "How much does it cost to book Rich Roll?",
+          "answer": "Fees vary by event. Contact Icon Talent Agency for current availability and a tailored quote."
+        },
+        {
+          "question": "What types of events does Rich Roll appear at?",
+          "answer": "His verified profile suggests suitability for corporate events, wellness conferences, brand events, and performance-minded audience programming."
+        },
+        {
+          "question": "How do I book Rich Roll through Icon Talent Agency?",
+          "answer": "Use the agency contact path to submit an event inquiry and request a booking quote based on your event details."
+        }
+      ],
+      "sources": [
+        {
+          "title": "All American Speakers profile for Rich Roll",
+          "url": "https://www.allamericanspeakers.com/speakers/405717/Rich-Roll"
+        },
+        {
+          "title": "Icon Talent Agency corporate/private event positioning",
+          "url": "https://icontalentagency.com/"
+        },
+        {
+          "title": "Icon talent roster page",
+          "url": "https://icontalentagency.com/our-a-z-talent-roster/"
+        }
+      ],
+      "opportunity": {
+        "lead_score": 79,
+        "reason": "Rich Roll is a strong fit for wellness conferences, brand events, and performance-minded corporate audiences. His podcast reach and endurance-athlete identity make him commercially appealing without relying on generic celebrity status.",
+        "lane": "buyer-demand",
+        "evidence": [
+          {
+            "title": "All American Speakers profile for Rich Roll",
+            "url": "https://www.allamericanspeakers.com/speakers/405717/Rich-Roll",
+            "finding": "Confirms athlete, speaker, author, podcast host, and booking intent."
+          },
+          {
+            "title": "Icon Talent Agency corporate/private event positioning",
+            "url": "https://icontalentagency.com/",
+            "finding": "Shows the site sells corporate and private event talent, matching Rich Roll's audience fit."
+          },
+          {
+            "title": "Icon talent roster page",
+            "url": "https://icontalentagency.com/our-a-z-talent-roster/",
+            "finding": "Verifies athlete and speaker categories are part of Icon's commercial architecture."
+          }
+        ]
+      },
+      "profile_id": "aa4ad228bcc316114506"
+    },
+    {
+      "full_name": "Jeff Civillico",
+      "category": "Hosts",
+      "genre": "comedian, host & emcee, corporate entertainer",
+      "short_bio": "Jeff Civillico is a keynote speaker and industry expert in the hosts and emcee space. His profile is positioned for private and corporate functions, with topics that include \"Comedy In Action\" and \"Work That Matters.\"",
+      "long_bio": "Jeff Civillico is presented in verified research as a keynote speaker and industry expert whose profile centers on event booking and corporate use. His category listings include Celebrity, Comedian, Host & Emcee, and Motivational.\n\nHe is described as explicitly bookable for private or corporate functions, making him a strong editorial fit for conferences, awards, gala hosting, and other business events. His profile language emphasizes booking availability and event use.\n\nVerified speaking topics associated with his profile include \"Comedy In Action\" and \"Work That Matters.\" These topics position him within a performance-and-message format that aligns with host, emcee, and corporate entertainment searches.\n\nResearch also indicates a dedicated booking-agent profile page and supports demand for celebrity talent in corporate, charity, and private event settings. Overall, Jeff Civillico fits high-intent host-and-emcee booking queries focused on event impact and audience engagement.",
+      "known_for": "Keynote speaker, industry expert, Celebrity category listing, Comedian category listing, Host & Emcee category listing, Motivational category listing",
+      "event_types": "conferences, awards ceremonies, gala events, corporate functions, private functions",
+      "nationality": "American",
+      "seo_headline": "Book Jeff Civillico | Jeff Civillico Booking Agent | Icon Talent Agency",
+      "seo_description": "Book Jeff Civillico for conferences, awards, gala hosting, and corporate functions.",
+      "why_book": [
+        "Strong editorial fit for conference, awards, gala hosting, and corporate event searches.",
+        "Verified profile language is centered on booking availability and event use.",
+        "Listed across categories including Celebrity, Comedian, Host & Emcee, and Motivational.",
+        "Supported speaking themes include Comedy In Action and Work That Matters."
+      ],
+      "speaking_topics": "Comedy In Action, Work That Matters, keynote speaking, industry expertise, corporate entertainment, motivational themes",
+      "signature_event_types": "conference hosting, gala emcee, corporate function entertainment",
+      "additional_faqs": [
+        {
+          "question": "How much does it cost to book Jeff Civillico?",
+          "answer": "Fees vary by event. Contact Icon Talent Agency for current availability and a tailored quote."
+        },
+        {
+          "question": "What types of events does Jeff Civillico appear at?",
+          "answer": "Verified research describes him as bookable for private or corporate functions and positions him for conferences, awards, gala hosting, and corporate events."
+        },
+        {
+          "question": "How do I book Jeff Civillico through Icon Talent Agency?",
+          "answer": "Use the booking inquiry process on the agency site to request current information and a customized quote for your event."
+        }
+      ],
+      "sources": [
+        {
+          "title": "All American Speakers profile for Jeff Civillico",
+          "url": "https://www.allamericanspeakers.com/speakers/390229/Jeff-Civillico"
+        },
+        {
+          "title": "Icon comedy roster page",
+          "url": "https://icontalentagency.com/browse-talent/comedy/"
+        },
+        {
+          "title": "Icon home page",
+          "url": "https://icontalentagency.com/"
+        }
+      ],
+      "opportunity": {
+        "lead_score": 78,
+        "reason": "Excellent fit for conferences, awards, gala hosting, and corporate functions because the intent is explicitly transactional and event-focused. This is the type of profile that can win high-converting host-and-emcee searches quickly.",
+        "lane": "competitor-gaps",
+        "evidence": [
+          {
+            "title": "All American Speakers profile for Jeff Civillico",
+            "url": "https://www.allamericanspeakers.com/speakers/390229/Jeff-Civillico",
+            "finding": "Directly frames him as a booking target for private and corporate functions."
+          },
+          {
+            "title": "Icon comedy roster page",
+            "url": "https://icontalentagency.com/browse-talent/comedy/",
+            "finding": "Supports corporate, charity, and private event comedy-booking demand."
+          },
+          {
+            "title": "Icon home page",
+            "url": "https://icontalentagency.com/",
+            "finding": "Shows the site sells celebrity talent for corporate and private events."
+          }
+        ]
+      },
+      "profile_id": "e860236d43d81358e11b"
+    },
+    {
+      "full_name": "Spike Mendelsohn",
+      "category": "Chefs",
+      "genre": "celebrity chef, restaurateur, and food-policy personality",
+      "short_bio": "Spike Mendelsohn is an American celebrity chef and restaurateur. He is also known as a culinary consultant, food policy advocate, podcast host, and NFT brand creator.",
+      "long_bio": "Spike Mendelsohn is an American celebrity chef and restaurateur with a profile that extends beyond the kitchen into public-facing food and hospitality conversations. Verified research also identifies him as a culinary consultant and food policy advocate, which broadens his relevance for culinary and business audiences.\n\nHe is listed on a major speaker bureau site with booking-request language, indicating clear commercial positioning for event inquiries. That bureau profile was updated in 2025, supporting current discoverability in the speaking and events market.\n\nMendelsohn's lane aligns well with buyer-demand categories such as culinary activations, food-brand events, hospitality conferences, and experiential private events. His mix of chef credibility and policy-oriented commentary can suit audiences looking for both entertainment value and substantive food-industry perspective.\n\nHe is also noted as a podcast host and NFT brand creator, adding contemporary digital and brand-building relevance to his profile. That combination can be useful for programs seeking a chef who can contribute to food culture, consumer engagement, and modern hospitality discussions.",
+      "known_for": "celebrity chef, restaurateur, culinary consultant, food policy advocate, podcast host, NFT brand creator",
+      "event_types": "corporate events, hospitality conferences, food-brand activations, charity events, private events",
+      "nationality": "American",
+      "seo_headline": "Book Spike Mendelsohn | Spike Mendelsohn Booking Agent | Icon Talent Agency",
+      "seo_description": "Book Spike Mendelsohn for culinary activations, hospitality conferences, and food-brand events.",
+      "why_book": [
+        "Strong fit for culinary activations, food-brand events, hospitality conferences, and experiential private events.",
+        "Combines celebrity chef recognition with culinary consulting and food-policy expertise.",
+        "Offers buyer-facing relevance for both event planners and sponsorship teams.",
+        "Listed on a major speaker bureau site with booking-request language and a 2025 profile update."
+      ],
+      "speaking_topics": "culinary activations, hospitality and food-brand engagement, restaurant and restaurant-adjacent business, food policy advocacy, podcasting and media, NFT brand creation, consumer food culture",
+      "signature_event_types": "chef-led brand activation, hospitality conference session, private culinary event",
+      "additional_faqs": [
+        {
+          "question": "How much does it cost to book Spike Mendelsohn?",
+          "answer": "Fees vary by event. Contact Icon Talent Agency for current availability and a tailored quote."
+        },
+        {
+          "question": "What types of events does Spike Mendelsohn appear at?",
+          "answer": "Research indicates fit for culinary activations, food-brand events, hospitality conferences, charity events, and private events."
+        },
+        {
+          "question": "How do I book Spike Mendelsohn through Icon Talent Agency?",
+          "answer": "Use the agency inquiry pathway to request booking information and a tailored quote for your event details."
+        }
+      ],
+      "sources": [
+        {
+          "title": "All American Speakers profile for Spike Mendelsohn",
+          "url": "https://www.allamericanspeakers.com/speakers/385195/Spike-Mendelsohn"
+        },
+        {
+          "title": "Icon home page",
+          "url": "https://icontalentagency.com/"
+        },
+        {
+          "title": "Icon roster page",
+          "url": "https://icontalentagency.com/our-a-z-talent-roster/"
+        }
+      ],
+      "opportunity": {
+        "lead_score": 77,
+        "reason": "Strong fit for culinary activations, food-brand events, hospitality conferences, and experiential private events. The chef category is a useful commercial gap because it can convert both event planners and sponsorship teams.",
+        "lane": "buyer-demand",
+        "evidence": [
+          {
+            "title": "All American Speakers profile for Spike Mendelsohn",
+            "url": "https://www.allamericanspeakers.com/speakers/385195/Spike-Mendelsohn",
+            "finding": "Confirms celebrity chef positioning and booking intent."
+          },
+          {
+            "title": "Icon home page",
+            "url": "https://icontalentagency.com/",
+            "finding": "Shows Icon books celebrity chefs for corporate, charity, and private events."
+          },
+          {
+            "title": "Icon roster page",
+            "url": "https://icontalentagency.com/our-a-z-talent-roster/",
+            "finding": "Verifies chefs are part of the searchable talent inventory."
+          }
+        ]
+      },
+      "profile_id": "9bc3f636fbcbfe1aed4f"
+    },
+    {
+      "full_name": "Tom Coverly",
+      "category": "Comedians",
+      "genre": "comedy magician, TV host, motivational entertainer",
+      "short_bio": "Tom Coverly is an American TV show host and professional comedy magician. He is also a motivational speaker with live performance experience for over 5 million people worldwide.",
+      "long_bio": "Tom Coverly is an American TV show host, professional comedy magician, and motivational speaker. His profile positions him as a versatile entertainer whose work blends comedy, magic, and motivational messaging.\n\nVerified profile information highlights broad appeal across corporate, university, school, and faith-event audiences. That mix makes him a practical editorial fit for buyers looking for family-friendly entertainment with an interactive stage presence.\n\nCoverly has been seen on NBC, CBS, ABC, FOX, and Access Hollywood. Those media appearances support recognition value and help reinforce search interest for event planners comparing talent options.\n\nHis speaker profile was updated in 2026, and the booking-oriented profile suggests strong demand signals around search discovery. His magician-plus-host angle also expands his relevance beyond standard comedian searches into hosting and motivational entertainment contexts.",
+      "known_for": "TV show host, professional comedy magician, motivational speaker, performed live for over 5 million people worldwide, seen on NBC/CBS/ABC/FOX/Access Hollywood, corporate university school and faith-event appeal",
+      "event_types": "corporate events, university events, school events, faith events, private shows",
+      "nationality": "American",
+      "seo_headline": "Book Tom Coverly | Tom Coverly Booking Agent | Icon Talent Agency",
+      "seo_description": "Book Tom Coverly for comedy magic, motivational entertainment, and family-friendly events.",
+      "why_book": [
+        "Combines comedy magic, hosting, and motivational entertainment in one profile.",
+        "Has verified appeal across corporate, university, school, and faith-event audiences.",
+        "Media visibility includes NBC, CBS, ABC, FOX, and Access Hollywood.",
+        "Live performance experience spans over 5 million people worldwide."
+      ],
+      "speaking_topics": "comedy magic, motivational entertainment, TV hosting, family-friendly stage performance, corporate entertainment, school shows, university events, faith events",
+      "signature_event_types": "corporate entertainment, family-friendly stage show, motivational event program",
+      "additional_faqs": [
+        {
+          "question": "How much does it cost to book Tom Coverly?",
+          "answer": "Fees vary by event. Contact Icon Talent Agency for current availability and a tailored quote."
+        },
+        {
+          "question": "What types of events does Tom Coverly appear at?",
+          "answer": "Verified profile details highlight corporate, university, school, and faith-event demand, along with private show interest."
+        },
+        {
+          "question": "How do I book Tom Coverly through Icon Talent Agency?",
+          "answer": "Use the agency booking inquiry process on the talent page to request current information and a tailored quote."
+        }
+      ],
+      "sources": [
+        {
+          "title": "All American Speakers profile for Tom Coverly",
+          "url": "https://www.allamericanspeakers.com/speakers/421809/Tom-Coverly"
+        },
+        {
+          "title": "Icon comedy category page",
+          "url": "https://icontalentagency.com/browse-talent/comedy/"
+        },
+        {
+          "title": "Icon home page",
+          "url": "https://icontalentagency.com/"
+        }
+      ],
+      "opportunity": {
+        "lead_score": 74,
+        "reason": "A practical fit for family-friendly corporate events, schools, faith events, and private shows, with a booking page already indicating strong search intent. The magician-plus-host angle widens lead capture beyond standard comedian queries.",
+        "lane": "site-search",
+        "evidence": [
+          {
+            "title": "All American Speakers profile for Tom Coverly",
+            "url": "https://www.allamericanspeakers.com/speakers/421809/Tom-Coverly",
+            "finding": "Shows host, comedy magician, and booking request intent."
+          },
+          {
+            "title": "Icon comedy category page",
+            "url": "https://icontalentagency.com/browse-talent/comedy/",
+            "finding": "Confirms comedy is sold for corporate, charity, and private event use cases."
+          },
+          {
+            "title": "Icon home page",
+            "url": "https://icontalentagency.com/",
+            "finding": "Confirms event-booking lead generation framing for celebrity talent."
+          }
+        ]
+      },
+      "profile_id": "19b4f4f0614fc4f112fd"
+    }
+  ],
   "processed_profile_ids": []
 }
